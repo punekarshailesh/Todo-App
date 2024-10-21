@@ -4,9 +4,10 @@
 <h2>Features</h2>
 <p>
   <ul>
-    <li><b>Task Management:</b>We can Add, Update and Delete the list.</li>
-    <li><b>User friendly Interface:</b>Intuitive and Responsive design for seamless user experience.</li>
-    <li><b>Real-time Updates:</b>Tasks are updated in real-time without the need to refresh the page.</li>
+    <li><b>Task Management: </b>We can Add, Update and Delete the list.</li>
+    <li><b>User friendly Interface: </b>Intuitive and Responsive design for seamless user experience.</li>
+    <li><b>Persistent Storage: </b>All tasks are saved in a database for persistent storage.
+    <li><b>Real-time Updates: </b>Tasks are updated in real-time without the need to refresh the page.</li>
     
   </ul>
 </p>
