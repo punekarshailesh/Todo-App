@@ -3,7 +3,7 @@
 <p>
   
 <h2>Screenshots</h2>
-  <img src="screenshots/screeenshot1.JPG">
+  <img src="screenshots/screenshot1.JPG">
   <img src="screenshots/screenshot2.JPG">
 </p>
 <p>
