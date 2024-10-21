@@ -36,3 +36,9 @@
   </ul>
   
 </p>
+
+<p>
+
+  <h2>Author</h2>
+  Shaliesh Madne
+</p>
