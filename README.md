@@ -3,8 +3,8 @@
 <p>
   
 <h2>Screenshots</h2>
-  <img src="/screenshots/screenshot1.jpg">
-  <img src="/screenshots/screenshot2.jpg">
+  <img src="screenshots/screenshot1.jpg">
+  <img src="screenshots/screenshot2.jpg">
 </p>
 <p>
 <h2>Features</h2>
